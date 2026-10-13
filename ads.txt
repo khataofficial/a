@@ -1,0 +1,2 @@
+# Replace the 16 X with your AdSense publisher ID (digits only, no "ca-"). Keep the rest exactly as is.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
